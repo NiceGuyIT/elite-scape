@@ -1,0 +1,7 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+#theme = "hugo-theme-zen"
+#theme = "hugo-theme-html5"
+theme = "bootstrap-bp-hugo-startpage"
+canonifyURLs = true
