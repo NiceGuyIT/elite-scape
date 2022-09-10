@@ -1,6 +1,6 @@
 [submodule "themes/baguettebox"]
-  path = themes/baguettebox
-  url = https://github.com/Schnouki/hugo-baguetteBox
+	path = themes/baguettebox
+	url = https://github.com/Schnouki/hugo-baguetteBox
 [submodule "themes/hugo-scroll"]
 	path = themes/hugo-scroll
 	url = https://github.com/janraasch/hugo-scroll.git
