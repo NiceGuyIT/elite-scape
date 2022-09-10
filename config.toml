@@ -16,7 +16,7 @@ disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
 [params]
     # A "copyright"-line to be added at the bottom of the page.
     # Hint: Markdown is supported in here as well. So you may e.g. add a link to your legal imprint-page.
-    copyright = "&copy; Elite Scape, INC"
+    copyright = "&copy; Elite Scape, Inc."
 
     # The "description" of your website. This is used in the meta data of your generated html.
     description = "Elite Scape services in North Carolina"
@@ -38,4 +38,4 @@ disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
     hidedesignbyline = true
 
     [params.meta]
-        keywords = "Elite Scape, Elite Scape INC, Holly Springs, Fuquay-Varina, Apex, Cary, Raleigh, North Carolina, landscape, lawn, lawn care, lawn services"
+        keywords = "Elite Scape, Elite Scape Inc, Holly Springs, Fuquay-Varina, Apex, Cary, Raleigh, North Carolina, landscape, lawn, lawn care, lawn services"
