@@ -1,6 +1,6 @@
 baseURL = 'https://EliteScapeNC.com/'
 languageCode = 'en-us'
-title = 'EliteScape - Homepage'
+title = 'Elite Scape, Inc - Premier landscape services'
 canonifyURLs = true
 
 #theme = "aether"
@@ -16,7 +16,7 @@ disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
 [params]
     # A "copyright"-line to be added at the bottom of the page.
     # Hint: Markdown is supported in here as well. So you may e.g. add a link to your legal imprint-page.
-    copyright = "© EliteScapeNC"
+    copyright = "&copy; Elite Scape, INC"
 
     # The "description" of your website. This is used in the meta data of your generated html.
     description = "Elite Scape services in North Carolina"
@@ -31,11 +31,11 @@ disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
     # Another "title" :-). This one is used as the site_name on the Hugo's internal
     # opengraph structured data template.
     # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
-    title = "EliteScape - North Carolina"
+    title = "Elite Scape landscaping services, serving Holly Springs NC and surrounding areas"
 
     # This theme will, by default, inject a design-by-line at the bottom of the page.
     # You can turn it off, but we would really appreciate if you don’t :-)
     hidedesignbyline = true
 
     [params.meta]
-        keywords = "elitescape, elitescapenc, landscape, holly springs, apex, cary, raleigh, north carolina, lawn, lawn care"
+        keywords = "Elite Scape, Elite Scape INC, Holly Springs, Fuquay-Varina, Apex, Cary, Raleigh, North Carolina, landscape, lawn, lawn care, lawn services"
