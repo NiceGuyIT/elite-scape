@@ -1,21 +1,6 @@
-[submodule "themes/hugo-theme-zen"]
-	path = themes/hugo-theme-zen
-	url = https://github.com/frjo/hugo-theme-zen.git
 [submodule "themes/baguettebox"]
   path = themes/baguettebox
   url = https://github.com/Schnouki/hugo-baguetteBox
-[submodule "themes/bootstrap-bp-hugo-startpage"]
-	path = themes/bootstrap-bp-hugo-startpage
-	url = https://github.com/spech66/bootstrap-bp-hugo-startpage
-[submodule "themes/aether"]
-	path = themes/aether
-	url = https://github.com/josephhutch/aether
-[submodule "themes/bilberry-hugo-theme"]
-	path = themes/bilberry-hugo-theme
-	url = https://github.com/Lednerb/bilberry-hugo-theme
-[submodule "themes/hugo-theme-jane"]
-	path = themes/hugo-theme-jane
-	url = https://github.com/xianmin/hugo-theme-jane
 [submodule "themes/hugo-scroll"]
 	path = themes/hugo-scroll
 	url = https://github.com/janraasch/hugo-scroll.git
