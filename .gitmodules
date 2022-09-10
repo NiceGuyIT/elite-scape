@@ -1,6 +1,9 @@
 [submodule "themes/hugo-theme-zen"]
 	path = themes/hugo-theme-zen
 	url = https://github.com/frjo/hugo-theme-zen.git
+[submodule "themes/baguettebox"]
+  path = themes/baguettebox
+  url = https://github.com/Schnouki/hugo-baguetteBox
 [submodule "themes/bootstrap-bp-hugo-startpage"]
 	path = themes/bootstrap-bp-hugo-startpage
 	url = https://github.com/spech66/bootstrap-bp-hugo-startpage
