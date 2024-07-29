@@ -2,11 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/themes/aether" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/themes/bilberry-hugo-theme" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/themes/bootstrap-bp-hugo-startpage" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/themes/hugo-theme-jane" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/themes/hugo-theme-zen" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/tmp/docs-archive" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/themes/baguettebox" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/themes/hugo-scroll" vcs="Git" />
   </component>
 </project>
